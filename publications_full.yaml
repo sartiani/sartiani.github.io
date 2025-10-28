@@ -1,0 +1,674 @@
+- title: 'JTutor: JSON Schema Validation Explained.'
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Kachimsirikwuo Caleb Imo
+  - Stefan Klessinger
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: DBPL
+  year: '2025'
+  link: https://doi.org/10.1145/3735106.3736532
+- title: Everything You Always Wanted to Know About JSON Schema (But Were Afraid to
+    Ask).
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: EDBT
+  year: '2025'
+  link: https://doi.org/10.48786/edbt.2025.116
+- title: Elimination of annotation dependencies in validation for Modern JSON Schema.
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Stefan Klessinger
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2025'
+  link: https://doi.org/10.48550/arXiv.2503.11288
+- title: 'Validation of Modern JSON Schema: Formalization and Complexity.'
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: Proc. ACM Program. Lang.
+  year: '2024'
+  link: https://doi.org/10.1145/3632891
+- title: Negation-closure for JSON Schema.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: Theor. Comput. Sci.
+  year: '2023'
+  link: https://doi.org/10.1016/j.tcs.2023.113823
+- title: 'Validation of Modern JSON Schema: Formalization and Complexity.'
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2023'
+  link: https://doi.org/10.48550/arXiv.2307.10034
+- title: Witness Generation for JSON Schema.
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: Proc. VLDB Endow.
+  year: '2022'
+  link: https://doi.org/10.14778/3565838.3565852
+- title: The Usage of Negation in Real-World JSON Schema Documents.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: SEBD
+  year: '2022'
+  link: https://ceur-ws.org/Vol-3194/paper12.pdf
+- title: Witness Generation for JSON Schema.
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2022'
+  link: https://arxiv.org/abs/2202.12849
+- title: Negation-Closure for JSON Schema.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2022'
+  link: https://arxiv.org/abs/2202.13434
+- title: A Tool for JSON Schema Witness Generation.
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Francesco Falleni
+  - Giorgio Ghelli
+  - Cristiano Landi
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: EDBT
+  year: '2021'
+  link: https://doi.org/10.5441/002/edbt.2021.86
+- title: A Test Suite for JSON Schema Containment.
+  authors:
+  - Lyes Attouche
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Yunchen Ding
+  - Michael Fruth
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: ER Demos/Posters
+  year: '2021'
+  link: https://ceur-ws.org/Vol-2958/paper4.pdf
+- title: An Empirical Study on the "Usage of Not" in Real-World JSON Schema Documents.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: ER
+  year: '2021'
+  link: https://doi.org/10.1007/978-3-030-89022-3_9
+- title: Not Elimination and Witness Generation for JSON Schema.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2021'
+  link: https://arxiv.org/abs/2104.14828
+- title: An Empirical Study on the "Usage of Not" in Real-World JSON Schema Documents
+    (Long Version).
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: CoRR
+  year: '2021'
+  link: https://arxiv.org/abs/2107.08677
+- title: Scalable Saturation of Streaming RDF Triples.
+  authors:
+  - Mohammad Amin Farvardin
+  - Dario Colazzo
+  - Khalid Belhajjame
+  - Carlo Sartiani
+  venue: Trans. Large Scale Data Knowl. Centered Syst.
+  year: '2020'
+  link: https://doi.org/10.1007/978-3-662-62271-1_1
+- title: Human-in-the-Loop Schema Inference for Massive JSON Datasets.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Clément Berti
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: EDBT
+  year: '2020'
+  link: https://doi.org/10.5441/002/edbt.2020.82
+- title: Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas.
+  authors:
+  - Michael Fruth
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  - Stefanie Scherzinger
+  venue: ER (Workshops)
+  year: '2020'
+  link: https://doi.org/10.1007/978-3-030-65847-2_20
+- title: Parametric schema inference for massive JSON datasets.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: VLDB J.
+  year: '2019'
+  link: https://doi.org/10.1007/s00778-018-0532-7
+- title: Streaming saturation for large RDF graphs with dynamic schema information.
+  authors:
+  - Mohammad Amin Farvardin
+  - Dario Colazzo
+  - Khalid Belhajjame
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2019'
+  link: https://doi.org/10.1145/3315507.3330201
+- title: Schemas And Types For JSON Data.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: EDBT
+  year: '2019'
+  link: https://doi.org/10.5441/002/edbt.2019.39
+- title: A Type System for Interactive JSON Schema Inference (Extended Abstract).
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: ICALP
+  year: '2019'
+  link: https://doi.org/10.4230/LIPIcs.ICALP.2019.101
+- title: 'Schemas and Types for JSON Data: From Theory to Practice.'
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: SIGMOD Conference
+  year: '2019'
+  link: https://doi.org/10.1145/3299869.3314032
+- title: Evaluating Queries and Updates on Big XML Documents.
+  authors:
+  - Nicole Bidoit
+  - Dario Colazzo
+  - Noor Malla
+  - Carlo Sartiani
+  venue: Inf. Syst. Frontiers
+  year: '2018'
+  link: https://doi.org/10.1007/s10796-017-9744-4
+- title: 'PathGraph: querying and exploring big data graphs.'
+  authors:
+  - Dario Colazzo
+  - Vincenzo Mecca
+  - Maurizio Nolé
+  - Carlo Sartiani
+  venue: SSDBM
+  year: '2018'
+  link: https://doi.org/10.1145/3221269.3222331
+- title: Linear Time Membership in a Class of Regular Expressions with Counting, Interleaving,
+    and Unordered Concatenation.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: ACM Trans. Database Syst.
+  year: '2017'
+  link: https://doi.org/10.1145/3132701
+- title: Counting types for massive JSON datasets.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2017'
+  link: https://doi.org/10.1145/3122831.3122837
+- title: Schema Inference for Massive JSON Datasets.
+  authors:
+  - Mohamed-Amine Baazizi
+  - Houssem Ben Lahmar
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: EDBT
+  year: '2017'
+  link: https://doi.org/10.5441/002/edbt.2017.21
+- title: A Distributed Implementation of GXPath.
+  authors:
+  - Maurizio Nolé
+  - Carlo Sartiani
+  venue: EDBT/ICDT Workshops
+  year: '2016'
+  link: https://ceur-ws.org/Vol-1558/paper23.pdf
+- title: A graph-based approach to detect unreachable methods in Java software.
+  authors:
+  - Simone Romano 0001
+  - Giuseppe Scanniello
+  - Carlo Sartiani
+  - Michele Risi
+  venue: SAC
+  year: '2016'
+  link: https://doi.org/10.1145/2851613.2851968
+- title: Regular Path Queries on Massive Graphs.
+  authors:
+  - Maurizio Nolé
+  - Carlo Sartiani
+  venue: SSDBM
+  year: '2016'
+  link: https://doi.org/10.1145/2949689.2949711
+- title: 'Andromeda: A System for Processing Queries and Updates on Big XML Documents.'
+  authors:
+  - Nicole Bidoit
+  - Dario Colazzo
+  - Carlo Sartiani
+  - Alessandro Solimando
+  - Federico Ulliana
+  venue: ADBIS (Short Papers and Workshops)
+  year: '2015'
+  link: https://doi.org/10.1007/978-3-319-23201-0_24
+- title: Typing regular path query languages for data graphs.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2015'
+  link: https://doi.org/10.1145/2815072.2815082
+- title: Queries and Updates on Big XML Documents (Extended Abstract).
+  authors:
+  - Nicole Bidoit
+  - Dario Colazzo
+  - Carlo Sartiani
+  - Alessandro Solimando
+  - Federico Ulliana
+  venue: SEBD
+  year: '2015'
+  link: ''
+- title: Typing Regular Path Query Languages for Data Graphs.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: CoRR
+  year: '2015'
+  link: http://arxiv.org/abs/1507.01708
+- title: Processing Regular Path Queries on Giraph.
+  authors:
+  - Maurizio Nolé
+  - Carlo Sartiani
+  venue: EDBT/ICDT Workshops
+  year: '2014'
+  link: https://ceur-ws.org/Vol-1133/paper-06.pdf
+- title: Typing query languages for data graphs.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: ICDE Workshops
+  year: '2014'
+  link: https://doi.org/10.1109/ICDEW.2014.6818297
+- title: Efficient asymmetric inclusion of regular expressions with interleaving and
+    counting for XML type-checking.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Luca Pardini
+  - Carlo Sartiani
+  venue: Theor. Comput. Sci.
+  year: '2013'
+  link: https://doi.org/10.1016/j.tcs.2013.04.023
+- title: Almost-linear inclusion for XML regular expression types.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Luca Pardini
+  - Carlo Sartiani
+  venue: ACM Trans. Database Syst.
+  year: '2013'
+  link: https://doi.org/10.1145/2508020.2508022
+- title: Processing XML queries and updates on map/reduce clusters.
+  authors:
+  - Nicole Bidoit
+  - Dario Colazzo
+  - Noor Malla
+  - Federico Ulliana
+  - Maurizio Nolé
+  - Carlo Sartiani
+  venue: EDBT
+  year: '2013'
+  link: https://doi.org/10.1145/2452376.2452470
+- title: Partitioning XML documents for iterative queries.
+  authors:
+  - Nicole Bidoit
+  - Dario Colazzo
+  - Noor Malla
+  - Carlo Sartiani
+  venue: IDEAS
+  year: '2012'
+  link: https://doi.org/10.1145/2351476.2351483
+- title: Schemas for safe and efficient XML processing.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: ICDE
+  year: '2011'
+  link: https://doi.org/10.1109/ICDE.2011.5767960
+- title: Precision and complexity of XQuery type inference.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: PPDP
+  year: '2011'
+  link: https://doi.org/10.1145/2003476.2003490
+- title: Efficient inclusion for a class of XML types with interleaving and counting.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: Inf. Syst.
+  year: '2009'
+  link: https://doi.org/10.1016/j.is.2008.10.001
+- title: Detection of corrupted schema mappings in XML data integration systems.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: ACM Trans. Internet Techn.
+  year: '2009'
+  link: https://doi.org/10.1145/1592446.1592448
+- title: Linear inclusion for XML regular expression types.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Luca Pardini
+  - Carlo Sartiani
+  venue: CIKM
+  year: '2009'
+  link: https://doi.org/10.1145/1645953.1645973
+- title: Efficient asymmetric inclusion between regular expression types.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Carlo Sartiani
+  venue: ICDT
+  year: '2009'
+  link: https://doi.org/10.1145/1514894.1514916
+- title: Linear time membership in a class of regular expressions with interleaving
+    and counting.
+  authors:
+  - Giorgio Ghelli
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: CIKM
+  year: '2008'
+  link: https://doi.org/10.1145/1458082.1458135
+- title: Linear Time Membership for a Class of XML Types with Interleaving and Counting.
+  authors:
+  - Giorgio Ghelli
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: PLAN-X
+  year: '2008'
+  link: http://gemo.futurs.inria.fr/events/PLANX2008/papers/p22.pdf
+- title: Efficient Inclusion of Conflict-free XML Types with Interleaving and Counting.
+  authors:
+  - Giorgio Ghelli
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2008'
+  link: ''
+- title: Efficient Inclusion for a Class of XML Types with Interleaving and Counting.
+  authors:
+  - Giorgio Ghelli
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2007'
+  link: https://doi.org/10.1007/978-3-540-75987-4_16
+- title: Scalable Query Dissemination in XPeer.
+  authors:
+  - Giovanni Conforti
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: EROW
+  year: '2007'
+  link: https://ceur-ws.org/Vol-229/paper2.pdf
+- title: Scalable Query Dissemination in XPeer.
+  authors:
+  - Giovanni Conforti
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: IDEAS
+  year: '2007'
+  link: https://doi.org/10.1109/IDEAS.2007.4318105
+- title: 'XML Type Projection: A Maximum Flow Approach.'
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2007'
+  link: ''
+- title: Static analysis for path correctness of XML queries.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: J. Funct. Program.
+  year: '2006'
+  link: https://doi.org/10.1017/S0956796806005983
+- title: A Query Algebra for XML P2P Databases.
+  authors:
+  - Carlo Sartiani
+  venue: EDBT Workshops
+  year: '2006'
+  link: https://doi.org/10.1007/11896548_48
+- title: An efficient algorithm for XML type projection.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: PPDP
+  year: '2006'
+  link: https://doi.org/10.1145/1140335.1140343
+- title: Mapping Maintenance in XML P2P Databases.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2006'
+  link: ''
+- title: Mapping Maintenance in XML P2P Databases.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2005'
+  link: https://doi.org/10.1007/11601524_5
+- title: Detecting Corrupted Schema Mappings in XML P2P Databases.
+  authors:
+  - Carlo Sartiani
+  - Dario Colazzo
+  venue: SEBD
+  year: '2005'
+  link: ''
+- title: Correctness of Query Results in XML P2P Databases.
+  authors:
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2005'
+  link: ''
+- title: Types for Path Correctness of XML Queries.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2005'
+  link: ''
+- title: 'XPeer: A Self-Organizing XML P2P Database System.'
+  authors:
+  - Carlo Sartiani
+  - Paolo Manghi
+  - Giorgio Ghelli
+  - Giovanni Conforti
+  venue: EDBT Workshops
+  year: '2004'
+  link: https://doi.org/10.1007/978-3-540-30192-9_45
+- title: Types for path correctness of XML queries.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: ICFP
+  year: '2004'
+  link: https://doi.org/10.1145/1016848.1016869
+- title: On the Correctness of Query Results in XML P2P Databases.
+  authors:
+  - Carlo Sartiani
+  venue: Peer-to-Peer Computing
+  year: '2004'
+  link: https://doi.org/10.1109/PTP.2004.1334927
+- title: A Self-organizing XML P2P Database System.
+  authors:
+  - Giovanni Conforti
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2004'
+  link: ''
+- title: A query algebra for xml p2p databases.
+  authors:
+  - Carlo Sartiani
+  venue: WWW (Alternate Track Papers & Posters)
+  year: '2004'
+  link: https://doi.org/10.1145/1013367.1013424
+- title: Efficient management of semistructured XLM data.
+  authors:
+  - Carlo Sartiani
+  venue: University of Pisa, Italy
+  year: '2003'
+  link: https://opac.bncf.firenze.sbn.it/bncf-prod/resource?uri=BNI0028564
+- title: A General Framework for Estimating XML Query Cardinality.
+  authors:
+  - Carlo Sartiani
+  venue: DBPL
+  year: '2003'
+  link: https://doi.org/10.1007/978-3-540-24607-7_16
+- title: Evaluating Nested Queries on XML Data.
+  authors:
+  - Carlo Sartiani
+  venue: IDEAS
+  year: '2003'
+  link: https://doi.org/10.1109/IDEAS.2003.1214929
+- title: A Framework for Estimating XML Query Cardinality.
+  authors:
+  - Carlo Sartiani
+  venue: WebDB
+  year: '2003'
+  link: http://www.cse.ogi.edu/webdb03/papers/08.pdf
+- title: A typed text retrieval query language for XML documents.
+  authors:
+  - Dario Colazzo
+  - Carlo Sartiani
+  - Antonio Albano
+  - Paolo Manghi
+  - Giorgio Ghelli
+  - Luca Lini
+  - Michele Paoli
+  venue: J. Assoc. Inf. Sci. Technol.
+  year: '2002'
+  link: https://doi.org/10.1002/asi.10059
+- title: Yet Another Query Algebra For XML Data.
+  authors:
+  - Carlo Sartiani
+  - Antonio Albano
+  venue: IDEAS
+  year: '2002'
+  link: https://doi.org/10.1109/IDEAS.2002.1029662
+- title: The Query Language TQL - Demo Presentation.
+  authors:
+  - Giovanni Conforti
+  - Giorgio Ghelli
+  - Antonio Albano
+  - Dario Colazzo
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: SEBD
+  year: '2002'
+  link: ''
+- title: The Query Language TQL.
+  authors:
+  - Giovanni Conforti
+  - Giorgio Ghelli
+  - Antonio Albano
+  - Dario Colazzo
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: WebDB
+  year: '2002'
+  link: http://www.db.ucsd.edu/webdb2002/papers/43.pdf
+- title: Types for Correctness of Queries over Semistructured Data.
+  authors:
+  - Dario Colazzo
+  - Giorgio Ghelli
+  - Paolo Manghi
+  - Carlo Sartiani
+  venue: WebDB
+  year: '2002'
+  link: http://www.db.ucsd.edu/webdb2002/papers/32.pdf

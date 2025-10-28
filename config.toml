@@ -1,0 +1,9 @@
+baseURL = "https://sartiani.github.io/"
+languageCode = "en-us"
+title = "DBType Research Group"
+theme = "dbtype-theme"
+
+[params]
+  description = "Research group at Università degli Studi della Basilicata exploring databases and type theory."
+  university_logo = "images/unibas_logo.png"
+  group_name = "DBType"

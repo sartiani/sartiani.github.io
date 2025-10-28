@@ -1,0 +1,14 @@
+<header class="site-header">
+  <div class="header-inner">
+    <img src="{{ .Site.Params.university_logo | relURL }}" alt="Logo" class="logo">
+
+    <h1>{{ .Site.Params.group_name }}</h1>
+  </div>
+  <nav class="navbar">
+    <a href="{{ "/" | relURL }}">Home</a>
+    <a href="{{ "/members/" | relURL }}">Members</a>
+    <a href="{{ "/publications/" | relURL }}">Publications</a>
+    <a href="{{ "/projects/" | relURL }}">Projects</a>
+    <a href="{{ "/collaborations/" | relURL }}">Collaborations</a>
+  </nav>
+</header>

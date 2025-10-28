@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="page">
+  <h1>{{ .Title }}</h1>
+  <ul class="pub-list">
+    {{ range sort site.Data.publications "year" "desc" }}
+      <li class="publication">
+        <strong>{{ .title }}</strong><br>
+        {{ range $i, $a := .authors }}{{ if $i }}, {{ end }}{{ $a }}{{ end }}.<br>
+        <em>{{ .venue }}</em>, {{ .year }}.
+        {{ with .link }}<a href="{{ . }}" target="_blank">[link]</a>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}
