@@ -17,11 +17,11 @@ title: "Projects"
 	We focus on three main issues:
 
 	- inference of a schema from a collection of positive examples;
+	- satisfiability, inclusion, and equivalence for Classical JSON Schema;
+ 	- validation, satisfiability, and inclusion for Modern JSON Schema.
 
-   	- satisfiability, inclusion, and equivalence for Classical JSON Schema;
- 
-   	- validation, satisfiability, and inclusion for Modern JSON Schema.
+	Working Group: Giorgio Ghelli (PI), Carlo Sartiani (co-PI), Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Stefan Klessinger, Nour El Houda Ben Ali
 
+- **"Data generation for JSON and beyond"**
 
-
-	Working Group: Giorgio Ghelli (PI), Carlo Sartiani (co-PI), Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Stefan Klessinger, Nour El Houda Ben Ali 
+	Working Group: Carlo Sartiani (PI), Dario M Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Stefan Klessinger, Nour El Houda Ben Ali
