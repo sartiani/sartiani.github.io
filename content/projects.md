@@ -14,4 +14,14 @@ title: "Projects"
 
 	In this project we study the problem of processing and managing large collections of JSON data, with particular emphasis on JSON Schema.
 
+	We focus on three main issues:
+
+	- inference of a schema from a collection of positive examples;
+
+   	- satisfiability, inclusion, and equivalence for Classical JSON Schema;
+ 
+   	- validation, satisfiability, and inclusion for Modern JSON Schema.
+
+
+
 	Working Group: Giorgio Ghelli (PI), Carlo Sartiani (co-PI), Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Stefan Klessinger, Nour El Houda Ben Ali 
