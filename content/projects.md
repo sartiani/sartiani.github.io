@@ -24,4 +24,13 @@ title: "Projects"
 
 - **"Data generation for JSON and beyond"**
 
-	Working Group: Carlo Sartiani (PI), Dario M Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Stefan Klessinger, Nour El Houda Ben Ali
+	In this project we study the data generation problem for JSON, in particular when a schema is available.
+	We aim at creating a data generation platform that is:
+	- complete
+	- flexible
+	- scalable
+	- resource efficient 
+
+	We also aim at extending the platform to support multiple formats: JSON, CSV, NR, XML.
+
+	Working Group: Carlo Sartiani (PI), Dario Miseo, Giorgio Ghelli (co-PI), Dario Colazzo (co-PI), Mohamed-Amine Baazizi (co-PI), Stefanie Scherzingher (co-PI), Nour El Houda Ben Ali
